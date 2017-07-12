@@ -32,8 +32,9 @@ a {
 }
 
 .nav {
+
   background-color: #00ADEE;
-  border-radius: 10px;
+  border-radius: 5px;
 }
 
 img[class^='estiloimg'] {
