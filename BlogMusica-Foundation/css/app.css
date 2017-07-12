@@ -1,0 +1,73 @@
+html {
+  width: 90%;
+  margin: 0 auto;
+  height: 100%;
+  background-color: black;
+}
+
+header {
+  margin-bottom: 5px;
+}
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #ffffff;
+}
+
+a {
+  color: #49569e;
+  text-decoration: inherit;
+}
+
+.redessociales {
+  text-align: right;
+  margin-top: 10%;
+}
+
+.imagenlogo {
+  width: 100%;
+  margin-top: 10%;
+}
+
+.nav {
+  background-color: #00ADEE;
+  border-radius: 10px;
+}
+
+img[class^='estiloimg'] {
+  width: 8%;
+}
+
+.imagenes {
+  width: 100%;
+
+  margin-top: 35%;
+}
+
+table {
+
+  cursor: pointer;
+}
+
+p {
+  text-align: justify;
+}
+
+
+/*******************************************************************************/
+
+@media all and (max-width: 900px) {
+  .redessociales {
+    width: 100%;
+    text-align: center;
+    margin-top: auto;
+  }
+  .col-xs-3 {
+    margin-top: 0%;
+  }
+}
+
+
+/********************************************************************************/
